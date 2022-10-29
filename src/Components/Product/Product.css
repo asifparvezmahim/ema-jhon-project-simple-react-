@@ -1,0 +1,23 @@
+.product-info {
+    border: 3px solid lightblue;
+    width: 300px;
+    margin: 10px;
+
+}
+
+.discription {
+    padding-left: 8px;
+}
+
+.product-info img {
+    height: 300px;
+    width: 300px;
+}
+
+.btn {
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
